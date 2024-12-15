@@ -81,6 +81,11 @@ st.markdown("""
 # 분류에 따라 다른 콘텐츠 관리
 content_data = {
     labels[0]: {
+        'images': [
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+        ],
         'texts': [
             "애니의 제목은 슬램덩크에요.",
             "농구동아리에 관련된 이야기를 다루고 있어요.",
@@ -88,6 +93,11 @@ content_data = {
         ]
     },
     labels[1]: {
+        'images': [
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+        ],
         'texts': [
             "애니의 제목은 윈브레에요.",
             "학교를 배경으로 한 싸움을 다루고 있어요. 싸움신을 잘 만든 애니 중 하니에요",
@@ -95,6 +105,11 @@ content_data = {
         ]
     },
     labels[2]: {
+        'images': [
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+        ],
         'texts': [
             "애니의 제목은 츠루네=카제마이고교 궁도부-에요.",
             "이 애니는 궁도동아리에 대한 이야기를 다루고 있어요.",
@@ -102,6 +117,11 @@ content_data = {
         ]
     },
     labels[3]: {
+        'images': [
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+        ],        
         'texts': [
             "애니의 제목은 치하야후루에요.",
             "이 애니는 일본의 전통게임인 카루타와 관련된 동아리에 대한 이야기를 다루고 있어요.",
@@ -109,6 +129,11 @@ content_data = {
         ]
     },
     labels[4]: {
+        'images': [
+            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
+            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
+            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+        ],        
         'texts': [
             "애니의 제목은 하이큐에요.",
             "이 애니는 배구동아리에 대한 이야기를 다루고 있어요.",
