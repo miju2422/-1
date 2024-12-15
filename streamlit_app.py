@@ -5,8 +5,12 @@ from fastai.vision.all import *
 from PIL import Image
 import gdown
 
+st.title("2422 서비스제작 수행")
+
+st.subheader("5개의 애니를 분류해보자")
+
 # Google Drive 파일 ID
-file_id = '1-Ro88dKJYWkvAyVDZBv1h4zkfAAWLCU4'
+file_id = '19kObuLXVejEivq75gZPGGNPvkHsrS33A'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
