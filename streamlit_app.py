@@ -81,56 +81,40 @@ st.markdown("""
 # 분류에 따라 다른 콘텐츠 관리
 content_data = {
     labels[0]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
-        ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "애니의 제목은 슬램덩크에요.",
+            "농구동아리에 관련된 이야기를 다루고 있어요.",
+            "제작자는 이 애니를 보지 안았어."
         ]
     },
     labels[1]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
-        ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "애니의 제목은 윈브레에요.",
+            "학교를 배경으로 한 싸움을 다루고 있어요. 싸움신을 잘 만든 애니 중 하니에요",
+            "매력적인 캐릭터들이 정말 많아요. 보고있으면 눈이 행복해요~"
         ]
     },
     labels[2]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
-        ],
-        'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
-        ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "애니의 제목은 츠루네=카제마이고교 궁도부-에요.",
+            "이 애니는 궁도동아리에 대한 이야기를 다루고 있어요.",
+            "주인공이 슬럼프에 빠져 궁도를 그만두게 되요. 하지만 고등학교에 진학하면서 다시 궁도를 시작하고 결국 슬럼프를 극복한다는 이야기에요."
         ]
-    }
+    },
+    labels[3]: {
+        'texts': [
+            "애니의 제목은 치하야후루에요.",
+            "이 애니는 일본의 전통게임인 카루타와 관련된 동아리에 대한 이야기를 다루고 있어요.",
+            "초등학생 시절의 어떤 사건으로 카루타에 흥미를 갖게 된 여주인공이 카루타로 최고에 자리에 도달하기 위해 노력하는 내용을 담고 있어."
+        ]
+    },
+    labels[4]: {
+        'texts': [
+            "애니의 제목은 하이큐에요.",
+            "이 애니는 배구동아리에 대한 이야기를 다루고 있어요.",
+            "신장이 작은 주인공이 배구를 동경하게 되면서 시작되는 이야기에요."
+        ]
+    },
 }
 
 # 레이아웃 설정
