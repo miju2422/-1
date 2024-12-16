@@ -77,9 +77,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
-            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
-            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+            "https://ibb.co/ZHRkzvs",
+            "https://ibb.co/1KZzgNF",
+            "https://ibb.co/6g6hrTy"
         ],
         'texts': [
             "애니의 제목은 슬램덩크에요.",
@@ -89,9 +89,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
-            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
-            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+            "https://ibb.co/tmKRhj5",
+            "https://ibb.co/vDSVrrv",
+            "https://ibb.co/NZG71Hw"
         ],
         'texts': [
             "애니의 제목은 윈브레에요.",
@@ -101,9 +101,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
-            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
-            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+            "https://ibb.co/QDSSmS2",
+            "https://ibb.co/jwpsGcf",
+            "https://ibb.co/B6GYmPw"
         ],
         'texts': [
             "애니의 제목은 츠루네=카제마이고교 궁도부-에요.",
@@ -113,9 +113,9 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
-            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
-            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+            "https://ibb.co/bsTDDkY",
+            "https://ibb.co/zQ4Lmbr",
+            "https://ibb.co/pJGk5bb"
         ],        
         'texts': [
             "애니의 제목은 치하야후루에요.",
@@ -125,9 +125,9 @@ content_data = {
     },
     labels[4]: {
         'images': [
-            "https://i.ibb.co/QcvCJPZ/3.jpg?text=Label1_Image1",
-            "https://i.ibb.co/GTgtDP8/4.jpg?text=Label1_Image2",
-            "https://i.ibb.co/f2BtvLv/1.jpg?text=Label1_Image3"
+            "https://ibb.co/WpzwvrV",
+            "https://ibb.co/cbdcQnQ",
+            "https://ibb.co/CPHS5tL"
         ],        
         'texts': [
             "애니의 제목은 하이큐에요.",
