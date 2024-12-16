@@ -113,7 +113,7 @@ content_data = {
     },
     labels[3]: {
         'images': [
-            "https://ibb.co/bsTDDkY",
+            "https://i.ibb.co/VgR55sb/1.jpg",
             "https://ibb.co/zQ4Lmbr",
             "https://ibb.co/pJGk5bb"
         ],        
