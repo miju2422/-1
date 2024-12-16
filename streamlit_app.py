@@ -77,7 +77,7 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://ibb.co/ZHRkzvs",
+            "https://i.ibb.co/wJZxh8H/4.jpg",
             "https://ibb.co/1KZzgNF",
             "https://ibb.co/6g6hrTy"
         ],
