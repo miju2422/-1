@@ -78,8 +78,8 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/wJZxh8H/4.jpg",
-            "https://ibb.co/1KZzgNF",
-            "https://ibb.co/6g6hrTy"
+            "https://i.ibb.co/ctJYB94/image.jpg",
+            "https://i.ibb.co/drRZ0v5/1.jpg"
         ],
         'texts': [
             "애니의 제목은 슬램덩크에요.",
@@ -101,9 +101,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://ibb.co/QDSSmS2",
-            "https://ibb.co/jwpsGcf",
-            "https://ibb.co/B6GYmPw"
+            "https://i.ibb.co/YRQgWnG/1.jpg",
+            "https://i.ibb.co/1bk7ppJ/3.jpg",
+            "https://i.ibb.co/ZWbNHky/4.jpg"
         ],
         'texts': [
             "애니의 제목은 츠루네=카제마이고교 궁도부-에요.",
@@ -114,8 +114,8 @@ content_data = {
     labels[3]: {
         'images': [
             "https://i.ibb.co/VgR55sb/1.jpg",
-            "https://ibb.co/zQ4Lmbr",
-            "https://ibb.co/pJGk5bb"
+            "https://i.ibb.co/sbVDgQ2/4.jpg",
+            "https://i.ibb.co/18h4j77/3.jpg"
         ],        
         'texts': [
             "애니의 제목은 치하야후루에요.",
@@ -125,9 +125,9 @@ content_data = {
     },
     labels[4]: {
         'images': [
-            "https://ibb.co/WpzwvrV",
-            "https://ibb.co/cbdcQnQ",
-            "https://ibb.co/CPHS5tL"
+            "https://i.ibb.co/gFWpZ04/image.jpg",
+            "https://i.ibb.co/z8whZvZ/1.jpg",
+            "https://i.ibb.co/g4RcM7Y/2.jpg"
         ],        
         'texts': [
             "애니의 제목은 하이큐에요.",
